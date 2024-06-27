@@ -1,0 +1,4 @@
+şapte,dasdas asdasd.asdasdbuild comenzi5.txt stopwords-ro.txt
+
+şapte
+asdasd

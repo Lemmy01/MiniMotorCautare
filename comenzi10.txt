@@ -1,0 +1,48 @@
+build setSimpluMap.txt
+getNumberOfKeywords
+getNumberOfDocuments
+getNumberOfKeywords D:/sd/curs/c7/cursmap.txt
+getNumberOfKeywords src/ro/usv/DemoMap.java
+getKeywordsOfDocument D:/sd/curs/c7/cursmap.txt
+getKeywordsOfDocument src/ro/usv/DemoMap.java
+getNumberOfDocuments Map
+getDocumentsOfKeyword Map
+printDetails
+search class
+search interfata
+cauta Map
+search Map
+search interfata map
+search interfata +map
+search intefata -map
+search -class
+search intefata -map +new
+//----------------------------------
+clear
+build C:\Users\vasil\Downloads\C9_1_proiect_analiza_text_dir_lib_src_testPDF\src\ro\usv stopwords-ro.txt
+getNumberOfDocuments
+getNumberOfKeywords
+search string
+setShortDocName true
+getDocumentsOfKeyword String
+getNumberOfDocuments class
+search interface
+addDocument comenzi10.txt
+getNumberOfDocuments
+getKeywordsOfDocument comenzi10.txt
+getNumberOfKeywords comenzi10.txt
+getDocumentsOfKeyword interface
+deleteDocument comenzi10.txt
+getNumberOfDocuments
+getKeywordsOfDocument comenzi10.txt
+getDocumentsOfKeyword interface comparable
+deleteDocument comenzi10.txt
+undeleteDocument comenzi10.txt
+getNumberOfDocuments
+getKeywordsOfDocument comenzi10.txt
+getDocumentsOfKeyword comparator
+search interface
+search class MiniMotorDECautare
+search class -xml MiniMotorDECautare
+search MiniMotorDECautare -search +interface -xml
+stop
